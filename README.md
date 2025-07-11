@@ -17,7 +17,7 @@ This is a part of my learning journey in JavaScript and DOM manipulation.
 🚀 Technologies UsedHTML ,CSS and JavaScript 
 
 🔗 Live Demo
-You can try the live version here: Your GitHub Pages Link
+You can try the live version here: https://password-generator-git-main-bhavya-kumar-singhs-projects.vercel.app
 
 💡 Features
 ✅ Adjustable password length
@@ -41,8 +41,8 @@ Inspired by various password tools and frontend challenges. Built purely for lea
 📬 Contact
 Let’s connect!
 
-Email: [your email]
+Email: bhavyaksingh654@gmail.com
 
-GitHub: [your GitHub profile]
+LinkedIn: www.linkedin.com/in/bhavya-kumar-singh-567a48289
 
-Portfolio: [your portfolio link]
+GitHub: https://github.com/bhavya654
